@@ -65,3 +65,10 @@ After training, the program can perform inference on new images, providing predi
 
 Offers a user-friendly interface for configuring training parameters and interacting with the trained model for inference.
 
+![image](https://github.com/gupta-aditya2106/facial_expression_recognition/assets/138894794/8597dfd2-6f56-4fc7-8bde-1e1afcdef97f)
+
+![image](https://github.com/gupta-aditya2106/facial_expression_recognition/assets/138894794/49889033-840c-4cd2-8d47-1ada7796c980)
+
+![image](https://github.com/gupta-aditya2106/facial_expression_recognition/assets/138894794/a507cb5a-90cc-4082-992c-81ff75953175)
+
+
